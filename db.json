@@ -1,0 +1,30 @@
+{
+  "route1": [
+    {
+      "success": true,
+      "message": "route1",
+      "data": [],
+      "id": "d851"
+    }
+  ],
+  "route2": [
+    {
+      "success": true,
+      "message": "route2",
+      "data": [],
+      "id": "285b"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "title": "Product 1",
+      "price": 899
+    },
+    {
+      "id": "5ef1",
+      "title": "Ayam Sunda",
+      "price": "3000"
+    }
+  ]
+}
